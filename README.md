@@ -23,7 +23,7 @@ To get started with Aurora's development environment:
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/aurora.git
+git clone https://github.com/your-username/aurora.github.io.git
 
 # Install dependencies
 npm install
