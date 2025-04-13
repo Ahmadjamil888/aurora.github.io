@@ -1,6 +1,6 @@
 # Aurora Frontend Development
 
-![Aurora Logo](https://via.placeholder.com/150x50?text=Aurora) <!-- Replace with your actual logo -->
+![Aurora Logo](https://raw.githubusercontent.com/Ahmadjamil888/aurora.github.io/refs/heads/main/Screenshot%20(33).png) <!-- Replace with your actual logo -->
 
 Aurora is a modern frontend development platform focused on creating beautiful, performant, and accessible web experiences.
 
