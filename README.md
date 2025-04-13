@@ -15,7 +15,7 @@ Aurora is a modern frontend development platform focused on creating beautiful, 
 
 ## Technologies
 
-![Tech Stack](https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,tailwind)
+![Tech Stack](https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind)
 
 ## Quick Start
 
